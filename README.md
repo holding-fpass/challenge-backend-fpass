@@ -18,7 +18,7 @@ Trabalhamos com tecnologias e arquiteturas de última geração para atender à 
 * Aplicação multi-plataformas.
 
 ## Desafio
-Crie uma API REST utilizando a API da Marvel para que pesquise/liste os heróis pelo nome e que seja possível marcar-los como favorito.
+Crie uma API REST integrando com a API da Marvel para que pesquise/liste os heróis pelo nome e que seja possível marcar-los como favorito.
 
 Site da API para ser utilizada: [Marvel for Developers](https://developer.marvel.com/)
 
